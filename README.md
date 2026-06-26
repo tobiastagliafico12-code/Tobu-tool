@@ -14,7 +14,7 @@ Una potente herramienta de consola con interfaz interactiva que reúne utilidade
  
 * **🛡️ Seguridad de Credenciales:** Generador dinámico de *wordlists* personalizadas para test de fuerza bruta y analizador de seguridad de contraseñas.
 
-* **🎨 Personalización Visual:
+* 🎨 Personalización Visual:
 ** Banner ASCII dinámico, animaciones de carga y 4 temas visuales interactivos (*Cyber Blue, Matrix Green, Blood Red, Purple Hacker*).
 
 ## 🖐️REQUISITOS:
