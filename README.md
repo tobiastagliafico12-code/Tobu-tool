@@ -78,11 +78,11 @@ while true; do banner; echo -e "${AM}╔════════════╗$
 * Tan solo es copiar y pegar el script en Termux 👌
 
 # AVISOS Y RECOMENDACIONES SOBRE EL USO:
-* **Al seleccionar la opción "0": "SALIR", se cerrará automáticamente la herramienta y la app.
+* ❗Al seleccionar la opción "0": "SALIR", se cerrará automáticamente la herramienta y la app.
 
-* **Al colocar un número telefónico en la opcion "4", Le recomendamos que use un código de país, ejemplo: "+54"xxx
+* ❗Al colocar un número telefónico en la opcion "4", Le recomendamos que use un código de país, ejemplo: "+54"xxx
 
-* **Las opciones del submenú de herramientas de IP "1", Pueden dejar de funcionar dependiendo de tu dispositivo.
+* ❗Las opciones del submenú de herramientas de IP "1", Pueden dejar de funcionar dependiendo de tu dispositivo.
 
 
 
