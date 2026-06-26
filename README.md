@@ -75,7 +75,7 @@ telefono(){ cargando "NUMERO TELEFONICO"; banner; read -p "Numero con codigo pai
 
 while true; do banner; echo -e "${AM}╔════════════╗${X}"; sleep 0.08; echo -e "${AM}║ ${B}1${AM} │ ${C}🌐 HERRAMIENTAS POR IP${AM}          ║${X}"; sleep 0.08; echo -e "${AM}║ ${B}2${AM} │ ${V}📱 Escaneo de Dispositivo${AM}       ║${X}"; sleep 0.08; echo -e "${AM}║ ${B}3${AM} │ ${C}👤 User Finder Masivo${AM}           ║${X}"; sleep 0.08; echo -e "${AM}║ ${B}4${AM} │ ${AM}📞 Numero Telefonico${AM}            ║${X}"; sleep 0.08; echo -e "${AM}║ ${B}5${AM} │ ${C}💥 Test fuerza bruta: wordlists${AM} ║${X}"; sleep 0.08; echo -e "${AM}║ ${B}6${AM} │ ${V}🔒 Verificacion seguridad pass${AM}  ║${X}"; sleep 0.08; echo -e "${AM}║ ${B}7${AM} │ ${C}🎨 Cambiar tema colores${AM}         ║${X}"; sleep 0.08; echo -e "${AM}║ ${B}0${AM} │ ${R}❌ Salir${AM}                        ║${X}"; echo -e "${AM}╚════════════╝${X}"; echo ""; read -p "Opcion: " o; case $o in 1) herramientas_ip ;; 2) dispositivo ;; 3) userfinder ;; 4) telefono ;; 5) wordlist_gen ;; 6) pass_check ;; 7) cambiar_tema ;; 0) clear; echo -e "${R}Saliendo...${X}"; sleep 1; clear; exit 0 ;; *) echo -e "${R}Invalida${X}"; sleep 1 ;; esac; done
 ```
-* Tan solo es copiar y pegar el script en Termux 👌
+* Tan solo es copiar y pegar el script en Termux.👌
 
 # AVISOS Y RECOMENDACIONES SOBRE EL USO:
 * ❗Al seleccionar la opción "0": "SALIR", se cerrará automáticamente la herramienta y la app.
