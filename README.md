@@ -84,5 +84,8 @@ while true; do banner; echo -e "${AM}╔════════════╗$
 
 * ❗Las opciones del submenú de herramientas de IP "1", Pueden dejar de funcionar dependiendo de tu dispositivo.
 
-
+# ⚡PREVIA:
+<p align="center">
+  <img src=Screenshot_20260625-213738.jpg width="400" alt="TOBU corriendo">
+</p>
 
