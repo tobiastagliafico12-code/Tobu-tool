@@ -3,7 +3,7 @@
 Una potente herramienta de consola con interfaz interactiva que reúne utilidades de auditoría de red, recopilación de información (OSINT) y análisis de seguridad en un solo lugar.
 
 # [ ESTA ES LA VERSION DE PRUEBA ]
-### [ LA VERSION [*PRO*] ESTA A LA VENTA POR DM ]
+### [ LA VERSION [*PRO*] ESTA A LA VENTA ]
 
 # ⚡PREVIA:
 <p align="center">
