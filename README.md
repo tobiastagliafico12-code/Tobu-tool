@@ -15,7 +15,7 @@
 <p align="center">
   <img src="Screenshot_20260627-025600.jpg" width="400"/>
 </p>
-*Efecto Glitch + Banner ASCII + Menú Matrix*
+
 
 ---
 
