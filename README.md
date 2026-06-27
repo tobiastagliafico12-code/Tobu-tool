@@ -1,44 +1,99 @@
-
-# 🛠️ TOBU - Multi-Tool de Reconocimiento, Utilidades OSINT y mas
-Una potente herramienta de consola con interfaz interactiva que reúne utilidades de auditoría de red, recopilación de información (OSINT) y análisis de seguridad en un solo lugar.
-
-# [ ESTA ES LA VERSION DE PRUEBA ]
-### [ LA VERSION [*PRO*] ESTA A LA VENTA ]
-
-# ⚡PREVIA:
 <p align="center">
-  <img src=Screenshot_20260627-025600.jpg width="400" alt="TOBU corriendo">
+  <img src="https://img.shields.io/badge/Estado-DEMO-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Módulos-0%2F10%20Libres-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Licencia-Proprietary-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Telegram-@Tobix_Ventas0-0088cc?style=for-the-badge&logo=telegram" />
 </p>
 
-## 🚀 Características Principales:
+# 💀 TOBU - Multi-Tool v4.2 
 
- * **🌐 Escaneo de Puertos:** Escaneo ágil de rangos TCP con barra de progreso en tiempo real.
+> Herramienta de consola estilo Matrix para Termux. 10 Módulos de Escaneo, OSINT y Utilidades.
 
- * **📍 Geolocalización & Reputación IP:** Rastreo de ubicación (país, ciudad, ISP) y detección de VPNs, Proxies o Hosting.
- 
-* **👤 OSINT en Redes Sociales:** Buscador masivo de nombres de usuario en plataformas como GitHub, Instagram, X, TikTok, YouTube y Reddit.
+---
 
- * **📱 Análisis de Dispositivo & Telefonía:** Extracción de info de hardware/sistema (Android, RAM, kernel) y validación avanzada de números telefónicos (operadora y país).
- 
-* **🛡️ Seguridad de Credenciales:** Generador dinámico de *wordlists* personalizadas para test de fuerza bruta y analizador de seguridad de contraseñas.
+### 🔥 PREVIA DE LA INTERFAZ
+<p align="center">
+  <img src="Screenshot_20260627-025600.jpg" width="400"/>
+</p>
+*Efecto Glitch + Banner ASCII + Menú Matrix*
 
-* 🎨 Personalización Visual:
-** Banner ASCII dinámico, animaciones de carga y 4 temas visuales interactivos (*Cyber Blue, Matrix Green, Blood Red, Purple Hacker*).
+---
 
-* ♥️ Se va actualizando para obtener mejoras.
+### 📊 DEMO vs PRO: COMPARATIVA REAL
 
+| Característica | **DEMO GRATIS** | **PRO COMPLETA** |
+| --- | --- | --- |
+| **Precio** | Gratis | De pago por DM |
+| **Módulos Visibles** | 10 | 10 |
+| **Módulos Funcionales** | 0 | 10 |
+| **Animaciones Glitch** | ✅ Sí | ✅ Sí, Full Speed |
+| **Banner ASCII** | ✅ Sí | ✅ Sí |
+| **Calavera ASCII** | ✅ Sí | ✅ Sí |
+| **Efecto Matrix** | ✅ Sí | ✅ Sí |
+| **Uso de Módulos** | 🔒 Bloqueado | ✅ Ilimitado |
+| **Banner "Comprar PRO"** | ✅ Sí | ❌ No |
+| **Updates Gratis** | ❌ No | ✅ Por 1 mes|
+| **Soporte** | ❌ No | ✅ Por Telegram |
 
-## 🖐️REQUISITOS:
-TERMUX (emulador de terminal en android)
-y descargar algunas cosas (para la version de prueba y la PRO)
-```bash 
-pkg update && pkg upgrade -y && pkg install bash python git curl wget jq -y && pip install requests -y
-pkg install pip
-pip install phonenumbers
-```
+---
 
-# ⭐SCRIPT: 
-```bash
+### 📦 LISTA DE FUNCIONES INCLUIDAS EN LA PRO
+
+La DEMO te muestra el menú, pero todos los módulos están bloqueados.
+
+**1. 🌐 HERRAMIENTAS POR IP** 
+   Escaneo de Puertos TCP/UDP, GeoIP con mapa
+
+**2. 📱 Escaneo de Dispositivo** 
+   Puertos locales, info del sistema
+
+**3. 👤 User Finder Masivo** 
+   Busca un usuario en 100+ redes sociales al instante
+
+**4. 📞 Numero Telefonico** 
+   Info de país, operadora y tipo de línea
+
+**5. 💥 Generador Wordlists** 
+   Crea diccionarios personalizados
+
+**6. 🔒 Verificacion seguridad** 
+   Test de fuerza de contraseñas
+
+**7. 🛡️ Detector VPN** 
+   Detecta si una IP usa VPN/Proxy
+
+**8. 📧 Breach Check Email** 
+   Revisa si un email fue filtrado
+
+**9. 💀 Simulador de Ataque** 
+   Simulación visual para demos/educación
+
+**10. ⚙️ Configuración** 
+   Temas, velocidad, etc.
+
+---
+
+### 💎 PASAR A LA VERSIÓN PRO
+
+La DEMO es solo para ver la estética. Si querés usarla de verdad:
+
+1.  **10/10 Módulos 100% Funcionales** Sin bloqueos.
+2.  **Sin el cartel de "COMPRAR PRO"** en cada opción.
+3.  **Updates** v4.3, v5.0, etc gratis.
+4.  **Soporte Directo** Te ayudo a instalarla.
+
+**Precio: Consultar por DM**
+
+👉 **[HABLAR POR TELEGRAM AHORA](https://t.me/Tobix_Ventas0)** 👈
+
+---
+
+### 📲 CÓMO PROBAR LA DEMO
+
+1.  `pkg update && pkg upgrade -y`
+2.  `pkg install bash`
+3.  Copiá el código del script de abajo en un archivo: `nano tobu_demo.sh`
+ ```bash
 #!/data/data/com.termux/files/usr/bin/bash
 A='\033[0;34m'; R='\033[0;31m'; V='\033[0;32m'; AM='\033[1;33m'; C='\033[0;36m'; B='\033[1;37m'; M='\033[0;35m'; X='\033[0m'
 
@@ -140,20 +195,17 @@ case $o in
 esac;
 done
 ```
-* Tan solo es copiar y pegar el script en Termux.👌
-* puedes crear un archivo nano y ejecutarlo con bash si se te traba ✅
-# 🫶 AVISOS Y RECOMENDACIONES SOBRE EL USO:
-* ❗Al seleccionar la opción "0": "SALIR", se cerrará automáticamente la herramienta y la app.
 
-* ❗Al colocar un número telefónico en la opcion "4", Le recomendamos que use un código de país, ejemplo: "+54"xxx [version pro]
+5.  Dale permisos: `chmod +x tobu_demo.sh`
+6.  Ejecuta: `bash tobu_demo.sh`
 
-* ❗Esta es la version de PRUEBA, la version PRO esta en venta (escribir al DM si esta interesado)
-## LICENCIA
-MIT LICENSE 
-  
-### 💎 VERSION PRO DISPONIBLE
-Todas las funciones desbloqueadas + Soporte + Updates.
+Podrás ver el menú, las animaciones y el banner. Al tocar cualquier opción te saldrá `[🔒 DISPONIBLE EN LA VERSIÓN PRO]`.
 
-👉 [HABLAR POR TELEGRAM](https://t.me/Tobix_Ventas0) 👈
+---
 
+### 📜 LICENCIA - LEER ANTES DE USAR
 
+TOBU Multi-Tool v4.2 - Copyright (c) 2026 Tobix. All Rights Reserved.
+
+Esta es una DEMO con fines de exhibición y no comercial únicamente.
+...
