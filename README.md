@@ -28,8 +28,6 @@ Una potente herramienta de consola con interfaz interactiva que reúne utilidade
 * ♥️ Se va actualizando para obtener mejoras.
 
 
-
-
 ## 🖐️REQUISITOS:
 TERMUX (emulador de terminal en android)
 y descargar algunas cosas (para la version de prueba y la PRO)
@@ -144,12 +142,12 @@ done
 ```
 * Tan solo es copiar y pegar el script en Termux.👌
 * puedes crear un archivo nano y ejecutarlo con bash si se te traba ✅
-# AVISOS Y RECOMENDACIONES SOBRE EL USO:
+# 🫶 AVISOS Y RECOMENDACIONES SOBRE EL USO:
 * ❗Al seleccionar la opción "0": "SALIR", se cerrará automáticamente la herramienta y la app.
 
 * ❗Al colocar un número telefónico en la opcion "4", Le recomendamos que use un código de país, ejemplo: "+54"xxx [version pro]
 
-* ❗Esta es la version de PRUEBA, la version PRO esta en venta (escribir al Dm si esta interesado)
+* ❗Esta es la version de PRUEBA, la version PRO esta en venta (escribir al DM si esta interesado)
 
   
 
