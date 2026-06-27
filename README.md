@@ -148,7 +148,8 @@ done
 * ❗Al colocar un número telefónico en la opcion "4", Le recomendamos que use un código de país, ejemplo: "+54"xxx [version pro]
 
 * ❗Esta es la version de PRUEBA, la version PRO esta en venta (escribir al DM si esta interesado)
-
+## LICENCIA
+MIT LICENSE 
   
 
 
