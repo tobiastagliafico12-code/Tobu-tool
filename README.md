@@ -151,6 +151,9 @@ done
 ## LICENCIA
 MIT LICENSE 
   
+### 💎 VERSION PRO DISPONIBLE
+Todas las funciones desbloqueadas + Soporte + Updates.
 
+👉 [HABLAR POR TELEGRAM](https://t.me/Tobix_Ventas0) 👈
 
 
