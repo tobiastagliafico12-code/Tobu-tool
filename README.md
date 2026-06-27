@@ -207,5 +207,4 @@ Podrás ver el menú, las animaciones y el banner. Al tocar cualquier opción te
 
 TOBU Multi-Tool v4.2 - Copyright (c) 2026 Tobix. All Rights Reserved.
 
-Esta es una DEMO con fines de exhibición y no comercial únicamente.
-...
+Esta es una DEMO con fines de exhibición y no comercial 
